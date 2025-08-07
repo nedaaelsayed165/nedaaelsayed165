@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nedaa 👋
+I'm a Frontend Developer passionate about building beautiful and responsive websites using React.js, Tailwind CSS, and more.
 
-<!--
-**nedaaelsayed165/nedaaelsayed165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies I use:
+- React.js
+- Tailwind CSS
+- Redux
+- Firebase
+- HTML / CSS / JS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+- [E-commerce App](https://art-handmade-ecommerce.vercel.app)
+- [Bakery Website](https://bakery-sass-project.vercel.app)
